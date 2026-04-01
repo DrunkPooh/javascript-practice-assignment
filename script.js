@@ -1,3 +1,5 @@
+// AH_03_신정호 JavaScript 실습과제
+
 // 실습 1: 버튼 클릭 이벤트
 const btn = document.querySelector("#btn");
 btn.addEventListener("click", function () {
