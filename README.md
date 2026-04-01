@@ -1,4 +1,4 @@
-# JavaScript 실습 과제
+# AH_03_신정호 JavaScript 실습과제
 
 ## 과제 소개
 JavaScript 수업 시간에 진행한 실습 내용을 정리한 과제입니다.  
